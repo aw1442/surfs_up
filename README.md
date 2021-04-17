@@ -8,7 +8,7 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 There are three major differences in weather between June and December:
 - The minimum temperature is lower for December at 56 whereas the minimum temperature for June is 64
-- The count of temperatures is lower for December at 1517 whereas the count of temperatures for June is 1700 
+- The count of temperatures is lower for December at 1,517 whereas the count of temperatures for June is 1,700 
 - The average tempearature is lower for December at 71.04 whereas the average temperature for June is 74.9
 
 ![image](https://user-images.githubusercontent.com/76754655/115122697-50353e00-9f87-11eb-94ac-052267ed2307.png)
